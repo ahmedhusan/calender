@@ -1,0 +1,25 @@
+.calender{
+    text-align: center;
+}
+.month{
+    justify-content: center;
+}
+table{   
+    margin: 0 auto;
+    border: 1px solid gray;
+}
+th{
+    border: 1px solid tomato;
+    background-color: green;
+    font-size: 20px;
+    font-weight: bolder;
+}
+ td{
+    border: 1px solid #ff00ff;
+    background: grey;
+    font-size: 20px;
+    font-weight: bold;
+}
+td:hover{
+    background: #ff00ff;
+}
